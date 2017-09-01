@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 987ce4894d2e4a34b8d763c53ed1ac6a
+timeCreated: 1504242336
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cloud
+    100002: cloud 2
+    100004: Ground tile\
+    100006: hill 1
+    100008: hill 2
+    100010: hill single
+    100012: //RootNode
+    100014: Plane
+    100016: Planplant 2
+    100018: plant
+    100020: Sun
+    100022: tile top
+    400000: cloud
+    400002: cloud 2
+    400004: Ground tile\
+    400006: hill 1
+    400008: hill 2
+    400010: hill single
+    400012: //RootNode
+    400014: Plane
+    400016: Planplant 2
+    400018: plant
+    400020: Sun
+    400022: tile top
+    2300000: cloud
+    2300002: cloud 2
+    2300004: Ground tile\
+    2300006: hill 1
+    2300008: hill 2
+    2300010: hill single
+    2300012: Plane
+    2300014: Planplant 2
+    2300016: plant
+    2300018: Sun
+    2300020: tile top
+    3300000: cloud
+    3300002: cloud 2
+    3300004: Ground tile\
+    3300006: hill 1
+    3300008: hill 2
+    3300010: hill single
+    3300012: Plane
+    3300014: Planplant 2
+    3300016: plant
+    3300018: Sun
+    3300020: tile top
+    4300000: Plane
+    4300002: cloud 2
+    4300004: cloud
+    4300006: hill 2
+    4300008: hill single
+    4300010: hill 1
+    4300012: plant
+    4300014: Ground tile\
+    4300016: tile top
+    4300018: Planplant 2
+    4300020: Sun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
